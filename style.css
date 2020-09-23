@@ -1,0 +1,18 @@
+.padre{
+    border: black 2px solid;
+    height: 500px;
+    display: flex;
+    /*justify-content: space-around;*/
+    align-items: center;
+
+}
+.hijo{
+    border: rgb(245, 13, 13) 2px solid;
+    height: 100px;
+    width: 100px;
+}
+.hijo2{
+    border: rgb(40, 13, 245) 2px solid;
+    height: 100px;
+    width: 100px;
+}
